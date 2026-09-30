@@ -1,0 +1,10 @@
+PRIMARY (Cloudflare temporary — claim within ~60 min or it expires):
+https://nate-shoot.eager-camelotia.workers.dev
+
+Claim to make permanent:
+https://dash.cloudflare.com/claim-preview?claimToken=NFmmdERybthWkILPFBJ0Y-YoW644c9nyUfqSy3k-o5w
+
+GitHub Pages (expected once enabled):
+https://itsluisc.github.io/nate-barger-shoot-hub/
+
+Repo: https://github.com/itsluisc/nate-barger-shoot-hub
